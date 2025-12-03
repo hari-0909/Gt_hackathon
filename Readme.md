@@ -123,3 +123,5 @@ Each creative is passed to an LLM with a marketing-optimized prompt:
 - **Packaging:** Python `zipfile` module  
 
 ---
+## colab link
+https://colab.research.google.com/drive/1RR85gvs3WMzTEt8TKwe-xbx80H7LC2ff?usp=sharing
